@@ -2,3 +2,5 @@ University
 Class
 Home
 Lecture
+Exam
+Lab
